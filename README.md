@@ -6,6 +6,6 @@ The app supports full CRUD operations on transactions and dynamically displays t
 
 The frontend uses HTML, CSS, and JavaScript for a clean, responsive design, while the backend is powered by PHP (procedural style) with PDO and MySQLi for stable database operations.
 
-To run the project locally, clone the repository, set up a server environment like XAMPP/WAMP, create a database named finance_management in phpMyAdmin, and configure the connection settings in db_connect.php. After setup, place the project in the server directory and access it via http://localhost/your-folder-name/.
+To run the project locally, clone the repository, set up a server environment like XAMPP/WAMP, create a database named finance_management in phpMyAdmin, and configure the connection settings in db_connect.php. After setup, place the project in the server directory and access it via http://localhost/your-folder-name/.(example: http://localhost/finance-app/
 
 The codebase is neatly organized into folders for CSS, JS, and PHP. Key PHP files include signup.php, login.php, add_transaction.php, edit_transaction.php, delete_transaction.php, and fetch_transactions.php. Users interact mainly through index.php (login/sign-up) and dashboard.php (fund management).
