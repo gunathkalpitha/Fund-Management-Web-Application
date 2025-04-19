@@ -1,0 +1,8 @@
+RAW: {"user":"sandeeptha","type":"withdraw","amount":700,"description":"just"}
+PARSED: Array
+(
+    [user] => sandeeptha
+    [type] => withdraw
+    [amount] => 700
+    [description] => just
+)
